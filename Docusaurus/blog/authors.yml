@@ -21,3 +21,21 @@ slorber:
     linkedin: sebastienlorber
     github: slorber
     newsletter: https://thisweekinreact.com
+
+ilham:
+  name: Ilham Satya Nusabhakti
+  title: Just a normal student
+  url: https://github.com/2021HUMMM
+  image_url: https://fatcatart.com/wp-content/uploads/2012/01/Leonardo-Mona-Lisa-True-version-copyright-FatCatArt.com_.jpg
+  page: true
+  socials:
+    github: 2021HUMMM
+
+dapqil:
+  name: Daffa Aqil Mahmud
+  title: Another normal student
+  url: https://github.com/noQils
+  image_url: https://github.com/noQils.png
+  page: true
+  socials:
+    github: noQils
